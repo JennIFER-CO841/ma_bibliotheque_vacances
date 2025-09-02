@@ -20,7 +20,7 @@ Technologies utilisées:
 
 Instructions pour installer l'application
 
-1. Liens vers mon github : https://github.com/JennIFER-CO841/ma_bibliotheque_vacances.git
+1. Liens vers mon github : https://github.com/JennIFER-CO841/ma_bibliotheque_vacances
 2. Télécharger ce projet en cliquant sur "Code" puis "Download ZIP".
 3. Extraire ce dossier ZIP dans le sous dossier dédié de votre serveur PHP, par exemple le sous dossier "www" du serveur WAMP, ou le sous dossier "htdocs" de serveur XAMPP.
 4.  Configurer la base de données :        
@@ -36,7 +36,7 @@ Instructions pour installer l'application
     $pass = '';
   
 6. Lancer le serveur (par exemple XAMPP, MAMP ou WAMP).
-7. Visiter la page d'acceuil http://localhost/ma_bibliotheque_vacances/index.php dans le navigateur afin d'utiliser cette application.
+7. Visiter la page d'acceuil http://localhost/ma_bibliotheque_vacances-main/index.php dans le navigateur afin d'utiliser cette application.
 
 
 
